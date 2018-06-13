@@ -1,0 +1,20 @@
+GLOSARIO:
+Bloque: Guarda información de transacciones financieras
+Los bloques se conectan entre sí a traves de un ID en un Blockchain
+Mining: Generar nuevos bloques
+Wallet: Software para la administración de la moneda
+Confirmation: Cuando una transacción entra en un bloque y se comprueba el ID.
+Exchange: Intercambio de divisas. El Bitcoin es como el patrón entre las criptomonedas (todo se cambia primero a Bitcoin)
+
+¿Qué es BlockChain?
+Blockchain: Es un software que une cada una de las terminales que está minando transacciones. Este software es el que decide como se van organizando nuevos bloques y como se seguirá alimentando el network.
+Cada bloque tiene un Hash Pointer, un identificador único que nos dice cual fue el anterior bloque.
+Cada bloque tiene un timestamp, estampa del momento en que fue creado.
+Cada bloque tiene datos de transacción. ¿Quien? ¿Importe? ¿Desde que nodo? Todo eso constituye en nuevo bloque.
+Las transacciones son IRREVERSIBLES.
+Llave Pública: Identifica a cada una de las personas que hace las transacciones. Se puede compartir. Comunica con la billetera.
+Llave Privada: Cifra cada una de las transacciones. Es para ejecutar la transacción.
+
+RECURSOS:
+Página para ver los trendings de las empresas que puedan estar moviendose mas en cuanto a cripto-cosas
+https://www.crunchbase.com/
