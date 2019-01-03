@@ -1,0 +1,14 @@
+C:\Users\Fabian Ardila\Desktop\Platzi\Carrera de Desarrollo de Aplicaciones con ASP .NET\helloWorld\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\Fabian Ardila\Desktop\Platzi\Carrera de Desarrollo de Aplicaciones con ASP .NET\helloWorld\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\Fabian Ardila\Desktop\Platzi\Carrera de Desarrollo de Aplicaciones con ASP .NET\helloWorld\bin\Release\netcoreapp2.1\win10-x64\helloWorld.exe
+C:\Users\Fabian Ardila\Desktop\Platzi\Carrera de Desarrollo de Aplicaciones con ASP .NET\helloWorld\bin\Release\netcoreapp2.1\win10-x64\helloWorld.deps.json
+C:\Users\Fabian Ardila\Desktop\Platzi\Carrera de Desarrollo de Aplicaciones con ASP .NET\helloWorld\bin\Release\netcoreapp2.1\win10-x64\helloWorld.runtimeconfig.json
+C:\Users\Fabian Ardila\Desktop\Platzi\Carrera de Desarrollo de Aplicaciones con ASP .NET\helloWorld\bin\Release\netcoreapp2.1\win10-x64\helloWorld.runtimeconfig.dev.json
+C:\Users\Fabian Ardila\Desktop\Platzi\Carrera de Desarrollo de Aplicaciones con ASP .NET\helloWorld\bin\Release\netcoreapp2.1\win10-x64\helloWorld.dll
+C:\Users\Fabian Ardila\Desktop\Platzi\Carrera de Desarrollo de Aplicaciones con ASP .NET\helloWorld\bin\Release\netcoreapp2.1\win10-x64\helloWorld.pdb
+C:\Users\Fabian Ardila\Desktop\Platzi\Carrera de Desarrollo de Aplicaciones con ASP .NET\helloWorld\obj\Release\netcoreapp2.1\win10-x64\helloWorld.csprojAssemblyReference.cache
+C:\Users\Fabian Ardila\Desktop\Platzi\Carrera de Desarrollo de Aplicaciones con ASP .NET\helloWorld\obj\Release\netcoreapp2.1\win10-x64\helloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Fabian Ardila\Desktop\Platzi\Carrera de Desarrollo de Aplicaciones con ASP .NET\helloWorld\obj\Release\netcoreapp2.1\win10-x64\helloWorld.AssemblyInfoInputs.cache
+C:\Users\Fabian Ardila\Desktop\Platzi\Carrera de Desarrollo de Aplicaciones con ASP .NET\helloWorld\obj\Release\netcoreapp2.1\win10-x64\helloWorld.AssemblyInfo.cs
+C:\Users\Fabian Ardila\Desktop\Platzi\Carrera de Desarrollo de Aplicaciones con ASP .NET\helloWorld\obj\Release\netcoreapp2.1\win10-x64\helloWorld.dll
+C:\Users\Fabian Ardila\Desktop\Platzi\Carrera de Desarrollo de Aplicaciones con ASP .NET\helloWorld\obj\Release\netcoreapp2.1\win10-x64\helloWorld.pdb
