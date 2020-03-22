@@ -1,0 +1,22 @@
+INSTALACIÓN
+- Node -> desde la pagina oficial de node
+- Angular -> node npm i -g @angular/cli
+
+CREAR LA PRIMERA APLICACIÓN
+Uno de los archivos más importantes es angular.json . Adicionalmente la carpeta src tiene configuraciones
+un lo más importante es que tiene la aplicación que vamos a crear
+
+-> ng new <NOMBRE-PROYECTO>
+
+ACTIVAR UN SERVIDOR DE DESARROLLO
+Se debe activar dentro de la carpeta que se creo el proyecto nuevo. En el navegador se podrá acceder a localhost:4200
+
+-> ng serve
+
+---- Introducción al Angular CLI y proyecto del curso ----
+Documentación oficial: https://angular.io/cli/serve
+
+ng --version -> versiones instaladas
+ng serve --port <PORT> -> Correr ambiente de desarrollo en un puerto específico
+ng build --prod -> Prepara la aplicación para producción, crea una carpeta con nombre dist dónde estarán los archivos 
+		   concretos como imágenes
