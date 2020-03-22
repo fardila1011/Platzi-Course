@@ -20,3 +20,8 @@ ng --version -> versiones instaladas
 ng serve --port <PORT> -> Correr ambiente de desarrollo en un puerto específico
 ng build --prod -> Prepara la aplicación para producción, crea una carpeta con nombre dist dónde estarán los archivos 
 		   concretos como imágenes
+
+---- Uso de ngIf ----
+Se usa para hacer condicionales dentro de un template:
+Ex.:
+<div *ngIf="CONDITION">Content</div>
