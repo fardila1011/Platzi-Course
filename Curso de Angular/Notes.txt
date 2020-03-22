@@ -28,7 +28,15 @@ Ex.:
 	Content
 </div>
 
----- Uso de ngFor para recorrer objetos ----
+---- Uso de ngFor add y delete ----
+items es una variable que está previamente creada en app.component.ts
 
+<ul>
+    <li *ngFor="let name of items; index as i">
+        {{ name }} {{ i }}
+    </li>
+</ul>
 
+Para agregar una función a un botón se hace de la siguiente manera:
+<button (click)="addItem()">Add item</button>
 
