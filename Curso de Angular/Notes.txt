@@ -24,4 +24,11 @@ ng build --prod -> Prepara la aplicación para producción, crea una carpeta con
 ---- Uso de ngIf ----
 Se usa para hacer condicionales dentro de un template:
 Ex.:
-<div *ngIf="CONDITION">Content</div>
+<div *ngIf="CONDITION">
+	Content
+</div>
+
+---- Uso de ngFor para recorrer objetos ----
+
+
+
